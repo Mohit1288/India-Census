@@ -1,8 +1,8 @@
-# Project : India-Census
+# Project Name- India census 2011 dataset
 
 # Library Used in this Project
 
-Project Name- # India census 2011 dataset
+
 
 Object= Trying to show population based on community ,literacy rate, sex ratio, state-wise and all.
 
